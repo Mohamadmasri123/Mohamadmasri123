@@ -17,8 +17,7 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 - :school: I graduated from a university with a major in computer science
-- :work: I work freelancer and teaching  programming
-- :technologist: **Currently working on** `Frontend Development`
+- :technologist: **Currently working on** `Frontend Development`and `teaching  programming`
 - :boom: You can visit [MY Portfolio](https://portfolio-xi-wine-13.vercel.app/
 ) for some frontend knowledge
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=MohamadMasri&amp;color=EA4335&amp;style=flat-square)](mailto:mohamadbassammasri@gmail.com)
